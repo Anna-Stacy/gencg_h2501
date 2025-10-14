@@ -1,4 +1,4 @@
-# Lecturer Journal: Day 01
+# Lecturer Day 01
 
 ## Computing without computer
 

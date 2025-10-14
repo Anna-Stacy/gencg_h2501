@@ -9,4 +9,5 @@ After the initial set up, I once again tried the simple generation of a square a
 
 
 
-<iframe src="https://editor.p5js.org/Anna-Stacy/full/25ZHauX0c" width="100%" height="450" frameborder="no"></iframe>  
+[Open the sketch](https://editor.p5js.org/Anna-Stacy/full/25ZHauX0c)
+

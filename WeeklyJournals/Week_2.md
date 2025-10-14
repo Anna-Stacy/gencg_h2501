@@ -8,5 +8,5 @@ Last week I learned about p5* and the basic layouts of the weblication, this wee
 I tried my hand at generating something itneractive and at first it did not go well. I had also lost the image as I had no account. So I made an account and later on re-did the image similarly to what I had done back then.
 
 {% raw %}
-<iframe src="https://editor.p5js.org/Anna-Stacy/full/N8xI2dI3N" width="100%" height="450" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/Anna-Stacy/full/N8xI2dI3N" width="100%" height="450" frameborder="no"></iframe>  
 {% endraw %}

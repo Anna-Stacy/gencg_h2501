@@ -13,7 +13,7 @@ As this was the base, I decided to continue and see what other inspirations coul
 {% endraw %}
 
 
-Here is an inspiration image for the petal skirt:
+Here is an inspiration image for the petal skirt: 
 https://www.vecteezy.com/vector-art/65015658-girl-wearing-flower-petal-skirt-running-happily-with-orange-hair-on-green-background-illustration
 
 

@@ -9,7 +9,7 @@ I am a florist. I have a apprenticeship in that craft and a diploma to prove it.
 As this was the base, I decided to continue and see what other inspirations could stick. One such artistic choice was to make a flower person, and be able to add the petals yourself with the cursor mechanics.
 
 {% raw %}
-<iframe src="https://editor.p5js.org/Anna-Stacy/full/xyg8V6ijX" width="100%" height="400" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/Anna-Stacy/full/xyg8V6ijX" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
 

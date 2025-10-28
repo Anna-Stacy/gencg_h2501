@@ -47,5 +47,3 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * At vero eos et accusam et justo duo dolores et ea rebum. 
 
 
-# My own journal throughout semester 3:
-

@@ -1,11 +1,10 @@
 # Weekly Journal 2
 
-## Introduction
+## Introduction/Exploration
 Last week I learned about p5* and the basic layouts of the weblication, this week we went into the more technical side and looked at interactive designs. Using the cursor made the image expand and shrink depending on the movement.
 
-
 ### Trials 
-I tried my hand at generating something itneractive and at first it did not go well. I had also lost the image as I had no account. So I made an account and later on re-did the image similarly to what I had done back then.
+I tried my hand at generating something interactive and at first it did not go well. I had also lost the image as I had no account. So I made an account and later on re-did the image similarly to what I had done back then.
 
 {% raw %}
 <iframe src="https://editor.p5js.org/Anna-Stacy/full/N8xI2dI3N" width="100%" height="450" frameborder="no"></iframe>  

@@ -1,7 +1,7 @@
 # Weekly Journal 6
 
 ## Exploration
-As I was at a family event in another country, my feedback/reflection session happened with my 11 (now 12) year old nephew. He told me nothing, he is 12. My niece used to tell me i'm a unicorn, so that is what I did. 
+After a family event one of my feedback/reflection sessions happened with my 11 (now 12) year old nephew. He told me nothing, he is 12. My niece used to tell me i'm a unicorn, so that is what I did. 
 Don't you worry, I asked later on that week once I came back for feedback from some of my classmates. They did this face O-O. I took that as a compliment. Also got told I could do more generative images that animate themselves. I found that a cool idea so below you can view my thought process in making a unicorn. Then wanting to animate the magical creature. 
 Keep in mind this is supposed to be 'me'. So... just keep that in mind, also, my niece is 5. KEEP THAT in mind. 
 {% raw %}

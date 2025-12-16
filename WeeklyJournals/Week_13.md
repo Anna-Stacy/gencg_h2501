@@ -7,7 +7,7 @@ Workshop week meant refinement. I started merging the pieces: rotation, a two-pa
 I saw this as an opourtunity to see misshaps as an artistic choice. This was also heavily inspired by the artist Adelbert Ames Jr. (1880-1955) with the Ames Room optical illusion.
 [A very interesting blog about him :)](https://davidcycleback.substack.com/p/adelbert-ames-mind-bending-illusions)
 
-![Week 13, Ames Room inspiration](/WeeklyJournals/Images/Week_13_AmesRoom.png)
+![Week 13, Ames Room inspiration](./Images/Week_13_AmesRoom.png)
 
 
  After this inspirational struck, I decided to test stars as a night-only layer and played with how many stars feel dreamy versus how many feel like glitter spilled everywhere (spoiler, its not good to add over 5000...).  

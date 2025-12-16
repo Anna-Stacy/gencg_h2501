@@ -1,26 +1,33 @@
 # Weekly Journal 3
 
-## Introduction
-This week we had the module online, which was quite nice and made me able to set up the visual studio code on my home desktop. With this I was able to use two screens simultaneously and take notes as well as try my hand at some generative animated designs.
+## Exploration & Experimentation
+This week was online, which was actually kind of nice because I could set up Visual Studio Code at home and live my best two-screen life: code on one screen, sketch on the other, and my brain still struggling in the middle. We were meant to explore structured generative systems, and what I took from that was: repetition is power.  
+
+I experimented with iterative drawing, then got pulled into making a clock system with circles. I built three circles representing seconds, minutes, and hours. I tested how to map time values to sizes, like making seconds tiny and fast-feeling while hours felt heavier. I tweaked my size ranges a lot—when the smallest circle felt too similar to the minute circle, I reduced its max size. When the hour circle dominated too much, I pulled it back. The fun part was refreshing the page and seeing it still represent “now,” like the sketch had a tiny heartbeat connected to real time.
 
 
-### Trials 
-After the initial set up, I once again tried the simple generation of a square and then decided to try out simple hour, minute and seconds generative art as shown in the preview below: 
-
-
+[Image: Three concentric circles representing seconds (small), minutes (medium), hours (large).]
 {% raw %}
 <iframe src="https://editor.p5js.org/Anna-Stacy/full/25ZHauX0c" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
+Then I tried to redo the clock with a more artistic twist, mixing earlier techniques so it didn’t feel like a plain diagram.
 
-As you can tell, it makes sense. The smallest circle are the seconds, the middle sized circle are the minutes and the biggest circle are the hours. Each time you update the page, it refreshes but still showcases the time. 
-I have tried to redo the clock, as we mixed some knowledge from the previous lectures, I tried my hand at this in a artistic twist.
-
+[Image: Clock-inspired generative variation with more stylized placement/lines.]
 {% raw %}
 <iframe src="https://editor.p5js.org/Anna-Stacy/full/WSW46YjHq" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
-
-Here is the link to the inspiration of the image generated below: 
+## Influences & References
+Here is the link to the inspiration I included this week, because my brain saw “clusters” and went: yes, that’s a whole aesthetic.
 https://medium.com/@oliviadavisdreamer/why-are-biblically-accurate-depictions-of-angels-a-cluster-of-eyes-and-wings-4c5ad90c8c88
 
+What mattered about this reference wasn’t the biblical angle, it was the visual logic: repetition of a motif (eyes, wings, circles) creates intensity and mood. That idea is important for me because circles keep showing up in my work, and by the end of the semester those circles become literal celestial bodies. Also, time as cycles quietly foreshadowed the later rotation idea: clocks are basically circles doing math.  
+
+
+## Algorithmic Thinking
+The algorithm was a translation system: take second(), minute(), and hour() and convert them into drawable parameters. If s goes from 0 to 59, map it into a size range and draw the smallest circle. Then do the same for minutes and hours. The rule is consistent layering: draw the largest circle first, then the smaller ones so they remain visible. My machine imaginaire is basically a “time-to-geometry converter,” like I’m turning the current moment into a shape.  
+
+
+## Critical Reflection
+What worked: the system was readable. Even without labels, the three circles felt like they belonged together because they shared a center and a consistent logic. What didn’t work: the line between “informative” and “expressive” is thin. Too literal and it’s just a clock. Too abstract and it stops being time. Next step: keep the cyclical idea but shift toward atmosphere, something that feels like transitions, like day becoming night instead of numbers being plotted.

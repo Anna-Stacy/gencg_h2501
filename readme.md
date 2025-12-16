@@ -1,4 +1,4 @@
-# Introduction 
+# Introduction and Table of Content
 
 This ReadMe is meant as a linked page to all the weekly journals i've been keeping.
 I have been learning generative computer graphics design and how to program various versions, from interactive to still to Graphics Interchange Format (gifs). 

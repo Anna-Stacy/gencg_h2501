@@ -3,7 +3,7 @@
 ## Exploration & Experimentation
 This week was online, which was actually kind of nice because I could set up Visual Studio Code at home and live my best two-screen life: code on one screen, sketch on the other, and my brain still struggling in the middle. We were meant to explore structured generative systems, and what I took from that was: repetition is power.  
 
-I experimented with iterative drawing, then got pulled into making a clock system with circles. I built three circles representing seconds, minutes, and hours. I tested how to map time values to sizes, like making seconds tiny and fast-feeling while hours felt heavier. I tweaked my size ranges a lot—when the smallest circle felt too similar to the minute circle, I reduced its max size. When the hour circle dominated too much, I pulled it back. The fun part was refreshing the page and seeing it still represent “now,” like the sketch had a tiny heartbeat connected to real time.
+I experimented with iterative drawing, then got pulled into making a clock system with circles. I built three circles representing seconds, minutes, and hours. I tested how to map time values to sizes, like making seconds tiny and fast-feeling while hours felt heavier. I tweaked my size ranges a lot, when the smallest circle felt too similar to the minute circle, I reduced its max size. When the hour circle dominated too much, I pulled it back. The fun part was refreshing the page and seeing it still represent “now,” like the sketch had a tiny heartbeat connected to real time.
 
 
 [Image: Three concentric circles representing seconds (small), minutes (medium), hours (large).]

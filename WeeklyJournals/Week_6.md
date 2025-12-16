@@ -29,10 +29,10 @@ I also did a second sketch iteration that shows how the references influenced my
 
 ## Algorithmic Thinking
 
-The algorithm here is a modular character machine. The unicorn is built from functions that draw parts at positions relative to a base coordinate. If the base changes, everything moves together. Animation comes from time-based modulation: a sparkle might use a sine wave or a frame counter, so it shifts or flickers smoothly. The rule is: don’t redraw a new unicorn every frame—redraw the same unicorn with slightly shifted parameters so it feels alive.  
+The algorithm here is a modular character machine. The unicorn is built from functions that draw parts at positions relative to a base coordinate. If the base changes, everything moves together. Animation comes from time-based modulation: a sparkle might use a sine wave or a frame counter, so it shifts or flickers smoothly. The rule is: don’t redraw a new unicorn every frame, redraw the same unicorn with slightly shifted parameters so it feels alive.  
 
 ## Critical Reflection
-What worked: I started coding like a person who plans, not like a person who panics (progress!). Breaking drawings into parts was huge for me. What failed: my pride, occasionally, when proportions looked wrong and the unicorn stared into my soul. But feedback pushed me toward animation, and that matters because animation and transitions are the bridge to my later sun/moon idea. Next step: make motion smoother and more intentional, not just “wiggle everything.” I want controlled change—like a gradual shift between moods.
+What worked: I started coding like a person who plans, not like a person who panics (progress!). Breaking drawings into parts was huge for me. What failed: my pride, occasionally, when proportions looked wrong and the unicorn stared into my soul. But feedback pushed me toward animation, and that matters because animation and transitions are the bridge to my later sun/moon idea. Next step: make motion smoother and more intentional, not just “wiggle everything.” I want controlled change, like a gradual shift between moods.
 
 
 ### Algorithmic Logic and difference between before vs after the feedback

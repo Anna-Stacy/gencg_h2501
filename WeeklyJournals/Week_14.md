@@ -9,7 +9,7 @@ The interaction is based on dragging and inertial rotation. When I drag, I updat
 [Image: Final Sun/Moon sketch showing a rotating disc, gradient atmosphere, and stars fading depending on state.]
 
 ## Influences & References
-This final piece is basically my semester’s theme finally admitting what it always was: duality and cycles. The sun and moon aren’t just cute icons; they’re a structured way to talk about contrast, mood shifts, and the idea that both states exist in the same system. It also connects back to my earlier references: The Starry Night taught me that night can be alive and textured, and the face studies taught me that expression can make a system emotionally legible without needing explanation. The choice to use warm/cool palettes isn’t just aesthetic—it’s communication.
+This final piece is basically my semester’s theme finally admitting what it always was: duality and cycles. The sun and moon aren’t just cute icons; they’re a structured way to talk about contrast, mood shifts, and the idea that both states exist in the same system. It also connects back to my earlier references: The Starry Night taught me that night can be alive and textured, and the face studies taught me that expression can make a system emotionally legible without needing explanation. The choice to use warm/cool palettes isn’t just aesthetic, it’s communication.
 
 ## Algorithmic Thinking
 The “machine imaginaire” is a rotation-driven state machine with easing. The script sets up angle, targetAngle, and angularVelocity, plus interaction flags like isDragging and lastX. While dragging, horizontal movement (dx) updates rotation targets and velocity. When not dragging, the system continues motion with friction (angularVelocity *= 0.95), so it gradually settles instead of stopping abruptly. The angle is wrapped so it stays within [(0, TWO_PI)].
@@ -20,10 +20,10 @@ And because I apparently can’t resist making things interactive in multiple wa
 
 ## Critical Reflection
 What worked:  
-Making one central object carry the whole theme. The disc became my anchor, and everything else (gradient, stars, face details) supports it instead of competing with it. Easing was the secret sauce—without it, the transition would feel like a cheap slider; with it, it feels like a cycle that has rhythm. The inertial rotation also made the interaction feel physical, which matches the idea of turning from night to day instead of toggling it like a light switch.
+Making one central object carry the whole theme. The disc became my anchor, and everything else (gradient, stars, face details) supports it instead of competing with it. Easing was the secret sauce, without it, the transition would feel like a cheap slider; with it, it feels like a cycle that has rhythm. The inertial rotation also made the interaction feel physical, which matches the idea of turning from night to day instead of toggling it like a light switch.
 
 What failed:  
 I had to fight my instinct to add too much. Every extra decorative element risked turning the sketch into noise. The best decision I made was choosing clarity over clutter. During critique, what I said exactly is XYZ UNCERTAIN, but the internal conclusion I’m keeping is clear: generative work looks strongest when the system is readable and the aesthetic choices serve the concept.
 
 Next step (if I extend this later):  
-Explore a richer “twilight” region between sun and moon—something subtle, not a third mode, but a more complex blend. But for this course, the final project feels like a real conclusion: the semester started with me losing work and drawing simple faces, and it ended with me building a controlled, interactive cycle where light and dark continuously trade places without either one being “the end.”
+Explore a richer “twilight” region between sun and moon, something subtle, not a third mode, but a more complex blend. But for this course, the final project feels like a real conclusion: the semester started with me losing work and drawing simple faces, and it ended with me building a controlled, interactive cycle where light and dark continuously trade places without either one being “the end.”

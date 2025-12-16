@@ -2,7 +2,7 @@
 
 ## Exploration & Experimentation
 
-Week 2 was still foundations, but with more “okay now touch it and see what happens.” We went into interactive design, and I immediately became obsessed with making the sketch react to the cursor. I tested mapping the mouse position to scale so shapes would expand and shrink as I moved. Something like radius = map(mouseX, 0, width, 10, 200) became my new best friend. I also played with sensitivity—because if the range is too big, the sketch feels like it’s screaming. If it’s too small, it feels like it’s ignoring me (rude).
+Week 2 was still foundations, but with more “okay now touch it and see what happens.” We went into interactive design, and I immediately became obsessed with making the sketch react to the cursor. I tested mapping the mouse position to scale so shapes would expand and shrink as I moved. Something like radius = map(mouseX, 0, width, 10, 200) became my new best friend. I also played with sensitivity, because if the range is too big, the sketch feels like it’s screaming. If it’s too small, it feels like it’s ignoring me (rude).
 
 Also: I had lost the Week 1 image because I had no account, so this week I made an account and re-did the work so I could stop living dangerously. This was the week I realized p5.js isn’t hard, but my file management habits are. Now it’s saved. Forever. Muhahaha.
 

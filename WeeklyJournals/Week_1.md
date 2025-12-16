@@ -21,7 +21,7 @@ My “machine imaginaire” in Week 1 was extremely straightforward: define the 
 
 ## Critical Reflection
 What worked: I learned the basics fast enough to make something recognizable, which is honestly a small miracle when you’re staring down coordinate systems for the first time. What failed: my entire unsaved progress and my dignity. But that failure forced me to treat process as reproducible, not magical.  
-Next step: control and interaction. If I can make a drawing respond to me, maybe I can eventually make it feel like it transitions—like night sliding into day instead of everything snapping instantly.
+Next step: control and interaction. If I can make a drawing respond to me, maybe I can eventually make it feel like it transitions, like night sliding into day instead of everything snapping instantly.
 
 #### The only question is WHYYY MEE
 Aka look who made an account :D <- Smiley face

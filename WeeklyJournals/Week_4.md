@@ -21,7 +21,7 @@ In the flower-person sketch, I added cursor mechanics so I could “add petals,�
 Here is the inspiration image for the petal skirt concept (because yes, I absolutely needed a visual target):
 https://www.vecteezy.com/vector-art/65015658-girl-wearing-flower-petal-skirt-running-happily-with-orange-hair-on-green-background-illustration
 
-This reference mattered because it gave me a silhouette to code toward. Generative systems can spiral into randomness fast, so having a clear “this is what it should read as” helped me constrain decisions. Also, flowers are basically nature’s version of pattern systems, and the more I worked with them, the more I kept thinking about cycles: blooming, fading, returning. Which—hello—sounds a lot like where the sun and moon will eventually show up.  
+This reference mattered because it gave me a silhouette to code toward. Generative systems can spiral into randomness fast, so having a clear “this is what it should read as” helped me constrain decisions. Also, flowers are basically nature’s version of pattern systems, and the more I worked with them, the more I kept thinking about cycles: blooming, fading, returning. Which, hello, sounds a lot like where the sun and moon will eventually show up.  
 
 
 
@@ -30,7 +30,7 @@ The logic was an accumulator with constraints. Each time the interaction trigger
 
 
 ## Critical Reflection
-What worked: mixing my past (floristry) with my present (code) made the work feel personal instead of purely technical. What failed: proportion consistency across contexts. That leg distortion taught me that generative art is also about robustness—what happens when the same rules are displayed somewhere else. Next step: I want more controlled parameters and smoother transitions, because I can feel myself moving away from “add more stuff” and toward “shift between states.” 
+What worked: mixing my past (floristry) with my present (code) made the work feel personal instead of purely technical. What failed: proportion consistency across contexts. That leg distortion taught me that generative art is also about robustness, what happens when the same rules are displayed somewhere else. Next step: I want more controlled parameters and smoother transitions, because I can feel myself moving away from “add more stuff” and toward “shift between states.” 
 
 #### Question: What is the meaning of life? = Photosynthesis. 
 All jokes aside. My question is more: How will my skills improve?

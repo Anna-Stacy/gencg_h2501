@@ -1,9 +1,9 @@
 # Weekly Journal 7
 
 ## Exploration & Experimentation
-This week was all about faces, and I took that as a personal attack (in a good way). I’ve been told I seem extroverted, which is funny because my closest friends know I am an introvert disguised as a functioning human. So naturally I thought of The Scream by Edvard Munch and went: yes, that’s the vibe sometimes. I started sketching a face concept that could hold duality—sun/moon, warm/cool, floral/mechanical.
+This week was all about faces, and I took that as a personal attack (in a good way). I’ve been told I seem extroverted, which is funny because my closest friends know I am an introvert disguised as a functioning human. So naturally I thought of The Scream by Edvard Munch and went: yes, that’s the vibe sometimes. I started sketching a face concept that could hold duality, sun/moon, warm/cool, floral/mechanical.
 
-I experimented with parameterizing features so I could generate variations instead of drawing one static face. I played with eye spacing, mouth curvature, and the balance between organic shapes (petal-like forms) and linear “cable” elements. I also started thinking about the sun and moon as faces—not just objects—because expression is a powerful shortcut for mood.
+I experimented with parameterizing features so I could generate variations instead of drawing one static face. I played with eye spacing, mouth curvature, and the balance between organic shapes (petal-like forms) and linear “cable” elements. I also started thinking about the sun and moon as faces, not just objects, because expression is a powerful shortcut for mood.
 
 [Image: Early sun/moon face concept showing warm floral side and cool mechanical side.]
 

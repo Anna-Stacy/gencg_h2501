@@ -28,7 +28,7 @@ Vincent van Gogh: Starry Night: https://www.vangoghgallery.com/img/starry_night_
 Starry night p5 reference: https://editor.p5js.org/GarrettC/sketches/EKY0h_9ck
 
 ## Algorithmic Thinking
-The machine was a field sampler. For every x/y position in a loop, I computed a noise value and used it to offset a line or curve. The rules are simple: if noise is high, the line shifts more; if noise is low, it stays closer to a baseline. If interaction is added, the mouse becomes a parameter tuner, like “mouseX controls noise scale” or “mouseY controls amplitude.” The point is that the drawing tool isn’t a pencil—it’s a rule-set that generates a texture over time.
+The machine was a field sampler. For every x/y position in a loop, I computed a noise value and used it to offset a line or curve. The rules are simple: if noise is high, the line shifts more; if noise is low, it stays closer to a baseline. If interaction is added, the mouse becomes a parameter tuner, like “mouseX controls noise scale” or “mouseY controls amplitude.” The point is that the drawing tool isn’t a pencil, it’s a rule-set that generates a texture over time.
 
 ## Critical Reflection
 What worked: noise instantly creates organic motion, which feels like magic when it works. What failed: when I stacked too many marks, it stopped being shimmer and started being “I dropped my spaghetti on the canvas.” I learned that flow needs restraint. Next step: bring color transitions into the system. I can already feel myself aiming toward warm/cool palettes and gradients, because that’s how I want to communicate day and night: through atmosphere.

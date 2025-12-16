@@ -8,7 +8,7 @@ I experimented with central disc studies. I tested adding “sun” rays as repe
 [Image: Disc studies showing rays vs craters; warm palette vs cool palette.]
 
 ## Influences & References
-This week’s influence was the long tradition of symbolic substitution in art: you don’t always depict the thing, you depict its meaning. That matters for my final project because I want the sun/moon to read as mood and cycle, not as an astronomy lesson. I also kept thinking back to Week 7 faces—because making the disc into a face gives it emotional clarity. A smiling sun and a calm moon become instant mood cues.
+This week’s influence was the long tradition of symbolic substitution in art: you don’t always depict the thing, you depict its meaning. That matters for my final project because I want the sun/moon to read as mood and cycle, not as an astronomy lesson. I also kept thinking back to Week 7 faces, because making the disc into a face gives it emotional clarity. A smiling sun and a calm moon become instant mood cues.
 
 ## Algorithmic Thinking
 The logic started to become layered and modular. Background layer handles atmosphere. Foreground disc handles the main identity. Detail layers toggle or fade based on state: rays appear in day, stars appear in night, textures shift depending on the parameter. The rule is consistency: one driving variable controls all these layers, so the sketch stays cohesive.

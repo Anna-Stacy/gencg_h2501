@@ -1,7 +1,6 @@
 # Weekly Journal 14
 
 ## Exploration & Experimentation
-
 Final week. Final presentations. Final me pretending I’m calm. The final project is my interactive Sun/Moon sketch, built in p5.js using WEBGL, where the central disc rotates and the whole scene transitions between warm “day” and cool “night.” The script is not a random pile of tricks; it’s the end result of everything I kept circling around all semester: cycles (Week 3), machines (Week 4), atmosphere (Week 5), characters/faces (Week 7), gradients and controlled transitions (Week 8 onward), and finally: motion that feels physical (Weeks 12–13).
 
 The interaction is based on dragging and inertial rotation. When I drag, I update the target rotation and velocity; when I release, the disc keeps spinning and slowly eases down like an object with friction. The visuals respond to the rotation: the background blends between palettes, a gradient shifts, stars fade in during night, and the disc face changes expression so the mood reads instantly.
@@ -9,7 +8,7 @@ The interaction is based on dragging and inertial rotation. When I drag, I updat
 [Image: Final Sun/Moon sketch showing a rotating disc, gradient atmosphere, and stars fading depending on state.]
 
 ## Influences & References
-This final piece is basically my semester’s theme finally admitting what it always was: duality and cycles. The sun and moon aren’t just cute icons; they’re a structured way to talk about contrast, mood shifts, and the idea that both states exist in the same system. It also connects back to my earlier references: The Starry Night taught me that night can be alive and textured, and the face studies taught me that expression can make a system emotionally legible without needing explanation. The choice to use warm/cool palettes isn’t just aesthetic, it’s communication.
+This final piece is basically my semester’s theme finally admitting what it always was: duality and cycles. The sun and moon aren’t just cute icons; they’re a structured way to talk about contrast, mood shifts, and the idea that both states exist in the same system. It also connects back to my earlier references: The Starry Night taught me that night can be alive and textured, and the face studies taught me that expression can make a system emotionally legible without needing explanation. The choice to use warm/cool palettes isn’t just aesthetic, it's a tribute to my hobbies as mentioned in the presentation.
 
 ## Algorithmic Thinking
 The “machine imaginaire” is a rotation-driven state machine with easing. The script sets up angle, targetAngle, and angularVelocity, plus interaction flags like isDragging and lastX. While dragging, horizontal movement (dx) updates rotation targets and velocity. When not dragging, the system continues motion with friction (angularVelocity *= 0.95), so it gradually settles instead of stopping abruptly. The angle is wrapped so it stays within [(0, TWO_PI)].

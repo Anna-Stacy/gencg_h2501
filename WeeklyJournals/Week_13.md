@@ -2,7 +2,16 @@
 
 ## Exploration & Experimentation
 
-Workshop week meant refinement. I started merging the pieces: rotation, a two-palette system (warm sun vs cool moon), and background atmosphere. I experimented with gradients by drawing the background in horizontal lines and blending colors across the height of the canvas. I also tested stars as a night-only layer and played with how many stars feel dreamy versus how many feel like glitter spilled everywhere. I adjusted density and twinkle speed until it felt like a night sky instead of an LED wall.
+Workshop week meant refinement. I started merging the pieces: rotation, a two-palette system (warm sun vs cool moon), and background atmosphere. I experimented with gradients by drawing the background in horizontal lines and blending colors across the height of the canvas instead of removing the issue. 
+
+I saw this as an opourtunity to see misshaps as an artistic choice. This was also heavily inspired by the artist Adelbert Ames Jr. (1880-1955) with the Ames Room optical illusion.
+[A very interesting blog about him :)](https://davidcycleback.substack.com/p/adelbert-ames-mind-bending-illusions)
+
+![Week 13, Ames Room inspiration](//WeeklyJournals/Images/Week_12_AmesRoom.png)
+
+
+ After this inspirational struck, I decided to test stars as a night-only layer and played with how many stars feel dreamy versus how many feel like glitter spilled everywhere (spoiler, its not good to add over 5000...).  
+ I adjusted density and twinkle speed until it felt like a night sky instead of an LED wall.
 
 Peer review happened, and what was said exactly is XYZ UNCERTAIN, but the general vibe was: make it readable, keep the interaction clear, and don’t overcomplicate the core idea. Which is basically the advice I needed, because my natural instinct is to add “just one more detail” until the sketch collapses under its own ambition.
 

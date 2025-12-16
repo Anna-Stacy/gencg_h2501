@@ -18,7 +18,7 @@ Peer review happened, and what was said exactly is XYZ UNCERTAIN, but the genera
 [Image: Near-final composition showing gradient transitions and stars fading in/out.]
 
 ## Influences & References
-The workshop process itself became the influence. Iteration is part of generative practice: you tweak a parameter, the system surprises you, and you decide whether that surprise is a gift or a crime. Conceptually, I leaned into systematic variation, one object, many states, because it aligns with the sun/moon duality and keeps the sketch from becoming a random scene collage.
+Based on Adelbert Ames Jr. (1880-1955). I leaned into systematic variation, one object, many states, because it aligns with the sun/moon duality and keeps the sketch from becoming a random scene collage.
 
 ## Algorithmic Thinking
 The algorithm became interpolation-driven. Compute a normalized value from the rotation angle (so rotation maps to a 0–1 state), apply easing so it transitions smoothly, then use that eased value to blend colors (lerpColor) and fade details (stars in night, rays in day). The machine imaginaire is: a single hidden dial controls the whole universe, and the viewer spins that dial with their hand.

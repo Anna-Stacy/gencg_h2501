@@ -1,4 +1,4 @@
-# Weekly Journal 3
+# Weekly Journal 03
 
 ## Exploration & Experimentation
 This week was online, which was actually kind of nice because I could set up Visual Studio Code at home and live my best two-screen life: code on one screen, sketch on the other, and my brain still struggling in the middle. We were meant to explore structured generative systems, and what I took from that was: repetition is power.  

@@ -1,4 +1,4 @@
-# Weekly Journal 8
+# Weekly Journal 08
 
 ## Exploration & Experimentation
 

@@ -1,4 +1,4 @@
-# Weekly Journal 5
+# Weekly Journal 05
 
 ## Exploration & Experimentation
 

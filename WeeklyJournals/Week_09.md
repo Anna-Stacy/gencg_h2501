@@ -1,4 +1,4 @@
-# Weekly Journal 9
+# Weekly Journal 09
 
 ## Exploration & Experimentation
 

@@ -1,4 +1,4 @@
-# Weekly Journal 7
+# Weekly Journal 07
 
 ## Exploration & Experimentation
 This week was all about faces, and I took that as a personal attack (in a good way). I’ve been told I seem extroverted, which is funny because my closest friends know I am an introvert disguised as a functioning human. So naturally I thought of The Scream by Edvard Munch and went: yes, that’s the vibe sometimes. I started sketching a face concept that could hold duality, sun/moon, warm/cool, floral/mechanical.

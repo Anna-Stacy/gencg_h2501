@@ -18,4 +18,4 @@ What worked: Finding my artistic style for the final project.
 
 What failed: Knowing it will be a struggle finding complex inspirations for geometric tarot shapes the way they are portrayed in the image above. 
 
-Next step: I want to make a trial art. I want to use layering: a smooth gradient background, a clear central disc, and state-based details like stars. Basically: atmosphere first, gimmicks second. 
+Next step: I want to make a trial art. I want to use layering: a smooth gradient background, a clear central disc, and state-based details like stars. 

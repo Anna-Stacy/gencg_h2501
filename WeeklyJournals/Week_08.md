@@ -1,4 +1,4 @@
-# Weekly Journal 08 - Start on Final Project
+# Weekly Journal 08 - Inspiration for Final Project
 
 ## Exploration & Experimentation
 
@@ -31,7 +31,8 @@ What worked: persistence and parameter control.
 
 What failed: my emotional stability for a moment, but we survived. This week actually mattered a lot because it taught me that transitions are aesthetic decisions that come from math, spacing, mapping, interpolation.
 
-Next step: apply this lesson to mood transitions (warm/cool) rather than rainbow transitions, because I’m definitely heading toward a night/day system after this. Why? My niece reminded me of my My Little Pony phase, also, my third name is Luna, which is the name of the Princess of the night. Basically gifting me the idea. Thank you my namesake hehe. 
+Next step: apply this lesson to mood transitions (warm/cool) rather than rainbow transitions, because I’m definitely heading toward a night/day system after this. Why? My niece reminded me of my My Little Pony phase, also, my third name is Luna, which is the name of the Princess of the night. Basically gifting me the idea. Thank you my namesake hehe.  
+
 ![Princess Luna comic version](./Images/Week_08_PrincessLuna.jpg)  
-[ source](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmlpforums.com%2Ftopic%2F133078-how-would-you-describe-princess-lunas-personality%2F&ved=0CBUQjRxqFwoTCMiPvM3P5pEDFQAAAAAdAAAAABAH&opi=89978449)
+[source](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmlpforums.com%2Ftopic%2F133078-how-would-you-describe-princess-lunas-personality%2F&ved=0CBUQjRxqFwoTCMiPvM3P5pEDFQAAAAAdAAAAABAH&opi=89978449)
 

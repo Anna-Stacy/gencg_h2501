@@ -12,7 +12,7 @@ The interaction is based on dragging and inertial rotation. When I drag, I updat
 {% endraw %}
 
 ## Influences & References
-The sun and moon aren’t just cute icons, they’re a structured way to talk about contrast, mood shifts, and the idea that both states exist in the same system (reference to my little pony, the royal sisters hehehe, watch my little pony to learn more about them).  
+The sun and moon aren’t just cute icons, they’re a structured way to talk about contrast, mood shifts, and the idea that both states exist in the same system (reference to my little pony, the royal sisters hehehe, watch my little pony to learn more about them <- free PR haha).  
 
 ![Royal Sisters Human Figure Style](./Images/Week_14_MLP.png)
 

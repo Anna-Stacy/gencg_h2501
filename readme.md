@@ -14,7 +14,7 @@ The use of LLM's has been used for the final project as assistance in smoothing 
   └── [Week 5](./WeeklyJournals/Week_05.md)  
   └── [Week 6](./WeeklyJournals/Week_06.md)  
   └── [Week 7](./WeeklyJournals/Week_07.md)  
-  └── [Week 8 - Start on Final Project](./WeeklyJournals/Week_08.md)  
+  └── [Week 8 - Inspiration for Final Project](./WeeklyJournals/Week_08.md)  
   └── [Week 9 - Final Project Prototype 1](./WeeklyJournals/Week_09.md)  
   └── [Week 10 - Final Project Research](./WeeklyJournals/Week_10.md)  
   └── [Week 11 - Final Project Prototype 2](./WeeklyJournals/Week_11.md)  

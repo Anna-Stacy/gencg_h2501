@@ -19,6 +19,8 @@ This first week didn’t start with deep art-history, but it did start a pattern
 
 ### Algorithmic Thinking
 My “machine imaginaire” in Week 1 was extremely straightforward: define the space, then place shapes using rules, even if the rules were tiny. The logic for a smiley is basically a recipe. If the canvas is width by height, then the face sits at (width/2, height/2). If the face radius is r, then the eyes sit at (centerX ± r*0.25, centerY - r*0.15) and the mouth sits below center. Even when it looks “cute and simple,” the computer is doing exactly what it is told, in exactly the order I wrote it. There is no mercy and no “it’s what I meant.”
+![One of the first scripts ever by moii](./Scripts/Week_01_01.js)
+
 
 ## Critical Reflection
 What worked: I learned the basics fast enough to make something recognizable, which is honestly a small miracle when you’re staring down coordinate systems for the first time. 

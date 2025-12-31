@@ -16,7 +16,7 @@ function draw()
     fill('yellow');
     circle(200, 200, 300);
 
-    // --- EYES (Black Dots) ---
+    // EYES (Black Dots
     fill(0); // Black
 
     // Left Eye Position (140, 140), Size 25

@@ -25,15 +25,18 @@ Then I tried to redo the clock with a more artistic twist, mixing earlier techni
 
 
 ## Influences & References
-Here is the link to the inspiration I included this week, because my brain saw “clusters” and went: yes, that’s a whole aesthetic.  
-https://medium.com/@oliviadavisdreamer/why-are-biblically-accurate-depictions-of-angels-a-cluster-of-eyes-and-wings-4c5ad90c8c88
+Here is the [link to the inspiration](https://medium.com/@oliviadavisdreamer/why-are-biblically-accurate-depictions-of-angels-a-cluster-of-eyes-and-wings-4c5ad90c8c88) I included this week, because my brain saw “clusters” and went: yes, that’s a whole aesthetic.  
 
 What mattered about this reference wasn’t the biblical angle, it was the visual logic: repetition of a motif (eyes, wings, circles) creates intensity and mood. That idea is important for me because circles keep showing up in my work. Also, I used to draw eyes every day as a child, so I found this idea for a showcase of time fitting.
 
 
 ## Algorithmic Thinking
-The algorithm was a translation system: take second(), minute(), and hour() and convert them into drawable parameters. If s goes from 0 to 59, map it into a size range and draw the smallest circle. Then do the same for minutes and hours. The rule is consistent layering: draw the largest circle first, then the smaller ones so they remain visible. My machine imaginaire is basically a “time-to-geometry converter,” like I’m turning the current moment into a shape.  
+The algorithm was a translation system: take second(), minute(), and hour() and convert them into drawable parameters. If s goes from 0 to 59, map it into a size range and draw the smallest circle. Then do the same for minutes and hours. 
 
 
 ## Critical Reflection
-What worked: the system was readable. Even without labels, the three circles felt like they belonged together because they shared a center and a consistent logic. What didn’t work: the line between “informative” and “expressive” is thin. Too literal and it’s just a clock. Too abstract and it stops being time. Next step: keep the cyclical idea but shift toward atmosphere, something that feels like transitions, like day becoming night instead of numbers being plotted.
+What worked: the system was readable. Even without labels, the three circles felt like they belonged together because they shared a center and a consistent logic.   
+
+What didn’t work: the line between “informative” and “expressive” is thin. Too literal and it’s just a clock. Too abstract and it stops being time.  
+
+Next step: keep the cyclical idea but shift toward atmosphere, something that feels like transitions.

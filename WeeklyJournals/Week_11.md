@@ -11,7 +11,7 @@ I experimented with central disc studies. I tested adding “sun” rays as repe
 {% endraw %}
 
 ## Influences & References
-This weeks influence was mainly the tarot card golden cover from week 10. The geometrical shapes and lines spinning with the sun to a rotatable degree before the moon side showed. 
+This weeks influence was mainly the tarot card golden cover from week 10. The geometrical shapes and lines spinning with the sun to a rotatable degree before the moon side showed. Also the use of LLM's has been used as per the lecturers instructor to make my various code snippets be able to interact with one another. That was life changing. No more hair pulling :D <- Smiley emoji
 
 ## Algorithmic Thinking
 The logic started to become layered and modular. Background layer handles atmosphere. Foreground disc handles the main identity.

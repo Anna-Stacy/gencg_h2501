@@ -4,7 +4,7 @@ This ReadMe is meant as a linked page to all the weekly journals i've been keepi
 I have been learning generative computer graphics design and how to program various versions, from interactive to still to Graphics Interchange Format (gifs). 
 Lets explore together what I have learned during my autumn semester! 
 
-The use of LLM's has been used for the final project as assistance in smoothing over transitions and making different code snippets from diffrent projects to call between functions.
+The use of LLM's has been used for the final project as assistance in smoothing over transitions and making different code snippets from diffrent projects to call between functions. (Read Week 11, Influences & References, for more details)
 
 ## Table of Content
   └── [Week 1](./WeeklyJournals/Week_01.md)  
